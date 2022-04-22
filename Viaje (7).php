@@ -140,7 +140,7 @@ class Viaje{
                         $pasajero->setTelefono($apellidoPasajero);
                         $array_pasajeros[$posicion]=$pasajero;
 
-                        $this->setColecccionPasajeros($array_pasajeros);
+                        $this->setColeccionPasajeros($array_pasajeros);
                         break;
                         
                        
